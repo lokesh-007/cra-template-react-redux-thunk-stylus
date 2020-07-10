@@ -1,0 +1,30 @@
+{
+    "name": "cra-template-react-redux-thunk-stylus",
+    "version": "0.0.1",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "redux",
+      "thunk",
+      "stylus"
+    ],
+    "main": "template.json",
+    "description": "A template for Create React App which sets up react with redux and thunk, with stylus as preprocessor",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/create-react-app.git",
+      "directory": "./"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=10"
+    },
+    "bugs": {
+      "url": "https://github.com/facebook/create-react-app/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
