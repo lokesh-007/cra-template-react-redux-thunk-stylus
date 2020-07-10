@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the template, [CRA-REACT-REDUX-THUNK-STYLUS](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the template, [cra-template-react-redux-thunk-stylus](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
 
 ## Available Scripts
 
@@ -52,7 +52,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn more about the template, [CRA-REACT-REDUX-THUNK-STYLUS](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
+To learn more about the template, [cra-template-react-redux-thunk-stylus](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
