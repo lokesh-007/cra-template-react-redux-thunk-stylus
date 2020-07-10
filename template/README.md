@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the template,[CRA-REACT-REDUX-THUNK-STYLUS](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the template, [CRA-REACT-REDUX-THUNK-STYLUS](https://github.com/lokesh-007/cra-template-react-redux-thunk-stylus)
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You can use .env.local to add env variables, for instance, for things like pointing to different API server, disabling google analytics in local, etc.
+You can use **.env.local** to add env variables, for instance, for things like pointing to different API server, disabling google analytics in local, etc.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
@@ -19,19 +19,19 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### 'npm run build-staging'
+### `npm run build-staging`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-You can use .env.staging to add env variables to staging build, for things like pointing to different API server, disabling google analytics, etc.
+You can use **.env.staging** to add env variables to staging build, for things like pointing to different API server, disabling google analytics, etc.
 
 ### `npm run build-production`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-You can use .env.production to add env variables to production build, for instance, for things like pointing to different API server, enabling google analytics, etc.
+You can use **.env.production** to add env variables to production build, for instance, for things like pointing to different API server, enabling google analytics, etc.
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
