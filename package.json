@@ -10,7 +10,7 @@
       "stylus"
     ],
     "main": "template.json",
-    "description": "A template for Create React App which sets up react with redux and thunk, with stylus as preprocessor",
+    "description": "A template for Create React App which sets up react with redux and thunk, and with stylus as the css preprocessor",
     "repository": {
       "type": "git",
       "url": "https://github.com/facebook/create-react-app.git",
